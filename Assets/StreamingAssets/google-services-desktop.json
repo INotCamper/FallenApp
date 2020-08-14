@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1006472187429",
+    "firebase_url": "https://fallen-app.firebaseio.com",
+    "project_id": "fallen-app",
+    "storage_bucket": "fallen-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1006472187429:android:efc1343e208b6ca9",
+        "android_client_info": {
+          "package_name": "com.TarantulaHawk.FallenDreamteamApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1006472187429-bs33urqve27cfs5ek2ap2h2ffrvf4j0e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.TarantulaHawk.FallenDreamteamApp",
+            "certificate_hash": "dd123fcd52814d19562b40360239b1dec6d4df7d"
+          }
+        },
+        {
+          "client_id": "1006472187429-n2dbe24uegon2i80gep0ekp178kvavim.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJ_A1VXgJJhkRk55sBIPZc7Rb_F9Jb_6Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1006472187429-n2dbe24uegon2i80gep0ekp178kvavim.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
